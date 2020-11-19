@@ -12,3 +12,5 @@ Universities and their dormitories
 1. When n > 1 Dormitory objects are emplace_back() in vector<Dormitory> campus, copy-type constructor is called for moving previously emplaced objects. That's not nice!
 2. Actually, move-type constructor isn't necessary, because copy-type is always used. 
 
+# Afterparty
+Special thanks to @graudtV, also known as Don_Java, but he codes C++.
