@@ -13,4 +13,4 @@ Universities and their dormitories
 2. Actually, move-type constructor isn't necessary, because copy-type is always used. 
 
 # Afterparty
-Special thanks to @graudtV, also known as Don_Java, but he codes C++.
+Special thanks to [graudtV](https://github.com/graudtV), also known as Don_Java, but he codes C++.
