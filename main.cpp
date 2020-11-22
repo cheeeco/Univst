@@ -3,6 +3,9 @@
 
 #include "univst.h"
 
+/*
+ * Забавный баг - когда в вектор campus добавляют вторую и более общагу, создаются и уничтожаются копии предыдущих.
+*/
 int main()
 {
     University MIPT("Phystech", "Dolgoprudniy, Institutskiy per., 9");
